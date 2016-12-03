@@ -16,7 +16,7 @@ Always focued on writting clean readable code using best practices.
 Checkout this repo, install dependencies, then start the gulp process with the following:
 
 ```
-	> git clone https://github.com/paschalidi/redux-basics.git <your-project-folder-name>
+	> git clone https://github.com/paschalidi/weather-forecast-react-redux.git <your-project-folder-name>
 	> cd <your-project-folder-name>
 	> npm install
 	> npm start
