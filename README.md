@@ -1,4 +1,4 @@
-# Redux basics introduction 
+# ReactJS and Redux ecosystem 
 
 This is yet another project that I implemented in order to get familiar with the ReactJS and Redux 
 means and practices.
